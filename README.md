@@ -11,12 +11,15 @@
 
 ## Releases
 
+- 최신 정식 버전: [v0.0.24 — WebView2 응답성 개선](https://github.com/HaksooJoo/MultiAIWorkstation-Update/releases/tag/v0.0.24)
+- Windows x64 포터블 ZIP 및 외부 SHA-256 검증 파일을 릴리스에 함께 제공합니다.
+
 [공개 업데이트 릴리스 확인](https://github.com/HaksooJoo/MultiAIWorkstation-Update/releases)
 
 태그와 ZIP 이름은 다음 형식으로 통일합니다.
 
-- Git tag: `v0.0.23` (이후에도 `vMAJOR.MINOR.PATCH`)
-- ZIP: `MultiAI-Workstation-v0.0.23-Windows-portable.zip`
+- Git tag: `v0.0.24` (이후에도 `vMAJOR.MINOR.PATCH`)
+- ZIP: `MultiAI-Workstation-v0.0.24-Windows-portable.zip`
 - 체크섬: `SHA256.txt` (ZIP의 SHA-256, 별도 Release asset)
 
 이 저장소가 비어 있거나 릴리스가 없을 때는 업데이트를 받을 수 없습니다. 첫 공개 배포 후 최신 버전 확인이 정상화됩니다.

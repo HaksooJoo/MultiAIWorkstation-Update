@@ -11,17 +11,18 @@
 
 ## Releases
 
-- 최신 정식 버전: [v0.0.26 — 창 크기 저장 및 안정화](https://github.com/HaksooJoo/MultiAIWorkstation-Update/releases/tag/v0.0.26)
+- 최신 정식 버전: [v0.0.27 — Glacier Glass 로그인 디자인 및 아이콘 개선](https://github.com/HaksooJoo/MultiAIWorkstation-Update/releases/tag/v0.0.27)
 - Windows x64 포터블 ZIP 및 외부 SHA-256 검증 파일을 릴리스에 함께 제공합니다.
 - v0.0.25: 이전에 폐기한 웹뷰 클릭 시 메인 창 강제 활성화 기능을 제거했습니다. 실제 Windows 채팅 입력/IME 테스트는 사용자 환경에서 추가 확인해야 합니다.
 - v0.0.26: 마지막 메인 작업창 크기와 최대화 상태를 `data/window-size.json`에 기록·복원하도록 개선했습니다. 실제 Windows 재실행·DPI 검증은 사용자 환경에서 확인해야 합니다.
+- v0.0.27: 선명한 512px 글래스 로고, Windows 다중 DPI 아이콘, 블루·퍼플 로그인 버튼과 한국어 잠금 화면을 개선했습니다. 시작 화면의 불필요한 테마·텍스처 재적용을 줄이고 암호 검증 정책은 유지했습니다.
 
 [공개 업데이트 릴리스 확인](https://github.com/HaksooJoo/MultiAIWorkstation-Update/releases)
 
 태그와 ZIP 이름은 다음 형식으로 통일합니다.
 
-- Git tag: `v0.0.26` (이후에도 `vMAJOR.MINOR.PATCH`)
-- ZIP: `MultiAI-Workstation-v0.0.26-Windows-portable.zip`
+- Git tag: `v0.0.27` (이후에도 `vMAJOR.MINOR.PATCH`)
+- ZIP: `MultiAI-Workstation-v0.0.27-Windows-portable.zip`
 - 체크섬: `SHA256.txt` (ZIP의 SHA-256, 별도 Release asset)
 
 이 저장소가 비어 있거나 릴리스가 없을 때는 업데이트를 받을 수 없습니다. 첫 공개 배포 후 최신 버전 확인이 정상화됩니다.

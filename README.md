@@ -11,8 +11,9 @@
 
 ## Releases
 
-- 최신 정식 버전: [v0.0.24 — WebView2 응답성 개선](https://github.com/HaksooJoo/MultiAIWorkstation-Update/releases/tag/v0.0.24)
+- 최신 정식 버전: [v0.0.25 — WebView2 채팅 입력 포커스 복구](https://github.com/HaksooJoo/MultiAIWorkstation-Update/releases/tag/v0.0.25)
 - Windows x64 포터블 ZIP 및 외부 SHA-256 검증 파일을 릴리스에 함께 제공합니다.
+- v0.0.25: 이전에 폐기한 웹뷰 클릭 시 메인 창 강제 활성화 기능을 제거했습니다. 실제 Windows 채팅 입력/IME 테스트는 사용자 환경에서 추가 확인해야 합니다.
 
 [공개 업데이트 릴리스 확인](https://github.com/HaksooJoo/MultiAIWorkstation-Update/releases)
 
